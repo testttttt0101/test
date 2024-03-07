@@ -1,0 +1,248 @@
+! Title: Block List uBlock
+/^.*?animevietsub.*?$/##.Logo
+/^.*?animevietsub.*?$/##^#menu-item-495
+/^.*?animevietsub.*?$/##^.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+/^.*?animevietsub.*?$/##^#menu-item-494
+/^.*?animevietsub.*?$/##^#menu-item-497
+/^.*?animevietsub.*?$/##^li.menu-item-493.menu-item-object-page.menu-item-type-post_type.menu-item
+/^.*?animevietsub.*?$/##^.Login
+/^.*?animevietsub.*?$/##^.announcement
+/^.*?animevietsub.*?$/##^.MovieListTopCn
+/^.*?animevietsub.*?$/##^.MovieListSldCn
+/^.*?animevietsub.*?$/##^.Top
+/^.*?animevietsub.*?$/##^#new-home
+/^.*?animevietsub.*?$/##^#hot-home
+/^.*?animevietsub.*?$/##^.widget-area
+/^.*?animevietsub.*?$/##^.ad-center-header.Adv
+/^.*?animevietsub.*?$/##^.ad-center-980.Adv
+/^.*?animevietsub.*?$/##^.home_ads.Ads
+/^.*?animevietsub.*?$/##^.ads_player.Ads
+/^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
+/^.*?animevietsub.*?$/##^.pc-catfixx
+/^.*?animevietsub.*?$/##^.mobile-catfixx
+/^.*?animevietsub.*?$/##^.breadcrumb
+/^.*?animevietsub.*?$/##^.schedule-title-main
+/^.*?animevietsub.*?$/##^.social-button
+/^.*?animevietsub.*?$/##^.tools-box
+/^.*?animevietsub.*?$/##^.VotesCn
+/^.*?animevietsub.*?$/##^.AAIco-remove_red_eye.View
+/^.*?animevietsub.*?$/##^.MovieTabNav
+/^.*?animevietsub.*?$/##^.fbcmt
+/^.*?animevietsub.*?$/##^#mv-keywords
+/^.*?animevietsub.*?$/##^div[class="Wdgt"]
+/^.*?animevietsub.*?$/##^.History-notif
+/^.*?animevietsub.*?$/###links-backup > h3
+/^.*?animevietsub.*?$/##^.server-name
+/^.*?animevietsub.*?$/##^.watch-notice
+/^.*?animevietsub.*?$/##^#invideo_wrapper
+/^.*?animevietsub.*?$/##^.Footer
+!
+/^.*?vuighe.*?$/##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-brand.h-\[50px\].w-\[200px\].s768\:w-\[180px\].flex.justify-between.shrink-0.s1280\:mr-2.s1366\:mr-3.z-50:first-child
+/^.*?vuighe.*?$/##^div[class="navbar-item s768:h-[30px] dark:s768:border-gray-700 s768:border s768:rounded-full s768:hover:text-red-600 dark:s768:hover:text-teal-500 s768:order-1"]
+/^.*?vuighe.*?$/##^div[class="navbar-item s768:h-[30px] dark:s768:border-gray-700 s768:border s768:rounded-full s768:hover:text-red-600 dark:s768:hover:text-teal-500 s768:order-2"]
+/^.*?vuighe.*?$/##^div[class="navbar-item s768:h-[30px] dark:s768:border-gray-700 s768:border s768:rounded-full s768:hover:text-red-600 dark:s768:hover:text-teal-500 s768:order-5"]
+/^.*?vuighe.*?$/##^div[class="navbar-item s768:h-[30px] dark:s768:border-gray-700 s768:border s768:rounded-full s768:hover:text-red-600 dark:s768:hover:text-teal-500 s768:order-4"]
+/^.*?vuighe.*?$/##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-user.relative.shrink-0.h-\[40px\].s1024\:w-\[145px\].s1280\:w-\[294px\].s1366\:w-\[320px\].ml-auto.flex.justify-end.gap-2:nth-child(3)
+/^.*?vuighe.*?$/##^section[class="mt-[20px] pl-[10px] pr-[10px] s1024:p-0 clear-both"]
+/^.*?vuighe.*?$/##^div[class="mb-2"]
+/^.*?vuighe.*?$/##^div[class="relative flex snap-x snap-mandatory overflow-x-auto gap-2 s1024:gap-3 text-white s768:grid s768:grid-cols-6 s768:overflow-hidden scrollbar-hide"]
+/^.*?vuighe.*?$/##^div[class="relative flex snap-x snap-mandatory overflow-x-auto s768:grid s768:grid-rows-2 s768:grid-cols-6 gap-2 s1024:gap-3 scrollbar-hide"]
+/^.*?vuighe.*?$/##^div[class="relative flex snap-x snap-mandatory overflow-x-auto s768:grid s768:grid-cols-6 gap-2 s1024:gap-3 scrollbar-hide"]
+/^.*?vuighe.*?$/##^div[class="relative flex snap-x snap-mandatory overflow-x-auto s768:grid s768:grid-cols-6 gap-2 s1024:gap-3 scrollbar-hide"]
+/^.*?vuighe.*?$/##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(8)
+/^.*?vuighe.*?$/##.s1024\:block.items-center.justify-between.flex
+/^.*?vuighe.*?$/##^section[class="container mt-[30px] pl-[10px] pr-[10px] s1024:p-0 clear-both"]
+/^.*?vuighe.*?$/##^footer
+/^.*?vuighe.*?$/##^section.affiliate
+/^.*?vuighe.*?$/##.duration-300.transition-all.opacity-0.leading-\[48px\].text-center.bg-yellow-600.rounded-full.overflow-hidden.cursor-pointer.w-\[50px\].h-\[50px\].right-\[10px\].bottom-\[10px\].absolute.action-user.action-item
+!
+/^.*?nettruyen.*?$/##^.logo
+/^.*?nettruyen.*?$/##.notifications
+/^.*?nettruyen.*?$/##^.pull-right.hidden-xs.list-inline.nav-account
+/^.*?nettruyen.*?$/##^.hidden-xs.main-nav
+/^.*?nettruyen.*?$/##^.notify_block
+/^.*?nettruyen.*?$/##^.cmszone.altcontent1
+/^.*?nettruyen.*?$/##^.relative
+/^.*?nettruyen.*?$/##^.cmszone.col-md-4.right-side
+/^.*?nettruyen.*?$/##^.mrb10.mrt5
+/^.*?nettruyen.*?$/##^.mrb5.text-center.container
+/^.*?nettruyen.*?$/##^.reading > div.container > .row
+/^.*?nettruyen.*?$/##^.rating.row
+/^.*?nettruyen.*?$/##^.follow
+/^.*?nettruyen.*?$/##^.mrt10.read-action
+/^.*?nettruyen.*?$/##^.col-md-4.right-side
+/^.*?nettruyen.*?$/##^.lazy-module.main-tab.nav-tabs.nav
+/^.*?nettruyen.*?$/##^.tab-content
+/^.*?nettruyen.*?$/##^.facebook-like
+/^.*?nettruyen.*?$/##^div.mrb10:nth-of-type(2)
+/^.*?nettruyen.*?$/##^.hidden-sm.hidden-xs.mrb10.alert-info.alert
+/^.*?nettruyen.*?$/##.btn-success.btn.follow-link
+/^.*?nettruyen.*?$/##^div.row:nth-of-type(3)
+/^.*?nettruyen.*?$/##^.comment
+/^.*?nettruyen.*?$/##^.footer
+/^.*?nettruyen.*?$/##^.main-menu.navbar-nav.nav
+/^.*?nettruyen.*?$/##^.list-inline.nav-account
+!
+/^.*?truyenqq.*?$/##^.logo
+/^.*?truyenqq.*?$/##^.right button
+/^.*?truyenqq.*?$/##^.bottom
+/^.*?truyenqq.*?$/##^.hero
+/^.*?truyenqq.*?$/##^.schedule
+/^.*?truyenqq.*?$/##^.homepage_suggest
+/^.*?truyenqq.*?$/##^.homepage_tags
+/^.*?truyenqq.*?$/##^.story-detail-menu
+/^.*?truyenqq.*?$/##^.comment-container
+/^.*?truyenqq.*?$/##^.note-server
+/^.*?truyenqq.*?$/##^#ad_info_top
+/^.*?truyenqq.*?$/##^div.mrt10:nth-of-type(2)
+/^.*?truyenqq.*?$/##^.mrt10.alert-info.alert
+/^.*?truyenqq.*?$/##^div#ad_info:nth-of-type(4)
+/^.*?truyenqq.*?$/##^.subscribeBook.btn-subscribe.is-rounded.is-danger.button
+/^.*?truyenqq.*?$/##^footer
+/^.*?truyenqq.*?$/##^#ad_info
+!
+/^.*?hentaivn.*?$/##^div[class="nav-login"]
+/^.*?hentaivn.*?$/##^a[class="a-nav"]
+/^.*?hentaivn.*?$/##^a[class="a-nav a-drop-1"]
+/^.*?hentaivn.*?$/##^div[class="qx_main"]
+/^.*?hentaivn.*?$/##^p[style="width: 615px; font-size: 15px; text-align: center; background: #f1efef; color: #000; margin: 10px auto 0px; border: 0px solid #ccc; border-radius: 4px; font-weight: bold;"]
+/^.*?hentaivn.*?$/##^ul[class="page-new"]
+/^.*?hentaivn.*?$/##.bar-title-dark
+/^.*?hentaivn.*?$/##^div[class="block-right"]
+/^.*?hentaivn.*?$/##^.page_like
+/^.*?hentaivn.*?$/##^div[id="showcmt"]
+/^.*?hentaivn.*?$/##^a[href="/register.php"]
+/^.*?hentaivn.*?$/##div.left-info:nth-of-type(3)
+/^.*?hentaivn.*?$/##^p[style="width: 750px;font-size: 14px;text-align: center;color: #000;margin: 10px auto 0px;border-radius: 4px;background-image: -webkit-gradient(linear, left top, left bottom, from(#e2eef5), to(#ffffff));"]
+/^.*?hentaivn.*?$/##^div[id="qxx"]
+/^.*?hentaivn.*?$/##.right_ps > p
+/^.*?hentaivn.*?$/##div.container:nth-child(3) > div.bot-episode:nth-child(11) > div.left-info:last-child > div.page-info
+/^.*?hentaivn.*?$/##^div[class="footer"]
+/^.*?hentaivn.*?$/##^.headerclick_2
+/^.*?hentaivn.*?$/##li.top-nav:nth-of-type(2)
+/^.*?hentaivn.*?$/##li.top-nav:nth-of-type(4)
+/^.*?hentaivn.*?$/##^.container > p
+/^.*?hentaivn.*?$/##^.bar-titlewhite
+/^.*?hentaivn.*?$/##^.size_70
+/^.*?hentaivn.*?$/##^.main > div.page-70 > .block-right-top
+/^.*?hentaivn.*?$/##div.main_xep:nth-of-type(1)
+/^.*?hentaivn.*?$/##div.main_xep:nth-of-type(2)
+/^.*?hentaivn.*?$/##div.main_xep:nth-of-type(3)
+/^.*?hentaivn.*?$/##^.block-right-top
+/^.*?hentaivn.*?$/##^.qx_135
+/^.*?hentaivn.*?$/##^.size_80
+/^.*?hentaivn.*?$/##^.bookmark
+/^.*?hentaivn.*?$/##^.content-row-2 > .content-info
+/^.*?hentaivn.*?$/##^#inner-randommobile
+/^.*?hentaivn.*?$/##^.green.page-title
+!
+/^.*?lxmanga.*?$/##^.items-center.flex.flex-shrink-0
+/^.*?lxmanga.*?$/##^.truncate.flex
+/^.*?lxmanga.*?$/##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(2)
+/^.*?lxmanga.*?$/##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
+/^.*?lxmanga.*?$/##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(5)
+/^.*?lxmanga.*?$/##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(6)
+/^.*?lxmanga.*?$/##^.mt-4.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex
+/^.*?lxmanga.*?$/##^div[class="border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
+/^.*?lxmanga.*?$/##^iframe[class="mt-4"]
+/^.*?lxmanga.*?$/##^nav[class="grid grid-cols-3 md:grid-cols-8"]
+/^.*?lxmanga.*?$/##^.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
+/^.*?lxmanga.*?$/##^.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
+/^.*?lxmanga.*?$/##^div[class="justify-between border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
+/^.*?lxmanga.*?$/##^label.inline-flex.items-center.cursor-pointer
+/^.*?lxmanga.*?$/##^button.px-3.py-1.border-2.rounded-lg.dark\:border-gray-600.relative.hover\:bg-gray-200.dark\:hover\:bg-gray-700.w-full.mt-2:last-child
+/^.*?lxmanga.*?$/##^h5.text-xl.mb-2.uppercase.font-semibold:first-child
+/^.*?lxmanga.*?$/##^div.grid.grid-cols-3.gap-4.mt-3:last-child
+/^.*?lxmanga.*?$/##^footer
+/^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
+/^.*?lxmanga.*?$/##^.font-bold.truncate.grow
+/^.*?lxmanga.*?$/##^div.flex.font-bold.py-2.pl-3.dark\:text-black.dark\:bg-stone-200.text-white.bg-stone-600:nth-of-type(2)
+/^.*?lxmanga.*?$/##^ul:nth-of-type(1) > [href="/shop"]
+/^.*?lxmanga.*?$/##^[href="/my/pets"]
+/^.*?lxmanga.*?$/##^ul:nth-of-type(1) > [href="/theo-doi"]
+/^.*?lxmanga.*?$/##^ul:nth-of-type(1) > [href="/lich-su"] > .dark\:hover\:bg-gray-600.hover\:bg-gray-300.dark\:border-gray-600.border-gray-300.border-b.pl-4.py-2.flex
+/^.*?lxmanga.*?$/##^[href="/my/achievements"]
+/^.*?lxmanga.*?$/##^[href="https://www.facebook.com/Shoplxer"]
+/^.*?lxmanga.*?$/##^.mt-6.text-center.hidden-mb.ads-wrapper
+/^.*?lxmanga.*?$/##^.third-pc-sticky-footer.hidden-mb.sticky-footer
+/^.*?lxmanga.*?$/##^.second-pc-sticky-footer.hidden-mb.sticky-footer
+/^.*?lxmanga.*?$/##^#pc-catfish-2
+/^.*?lxmanga.*?$/##^#left-balloon
+/^.*?lxmanga.*?$/##^script[type="text/javascript"]
+/^.*?lxmanga.*?$/##^.mt-6.text-center.hidden-pc.ads-wrapper
+/^.*?lxmanga.*?$/##^.third-sticky-footer.hidden-pc.sticky-footer
+/^.*?lxmanga.*?$/##^.second-sticky-footer.hidden-pc.sticky-footer
+/^.*?lxmanga.*?$/##^#mobile-catfish-2
+!
+/^.*?7mmtv.*?$/##^.header-logo
+/^.*?7mmtv.*?$/##li.toggle.nav-item:nth-of-type(3)
+/^.*?7mmtv.*?$/##li.toggle.nav-item:nth-of-type(4)
+/^.*?7mmtv.*?$/##li.nav-item:nth-of-type(5)
+/^.*?7mmtv.*?$/##li.nav-item:nth-of-type(6)
+/^.*?7mmtv.*?$/##li.nav-item:nth-of-type(7)
+/^.*?7mmtv.*?$/##li.toggle.nav-item:nth-of-type(8)
+/^.*?7mmtv.*?$/##^div[class="position-relative mb-4"]
+/^.*?7mmtv.*?$/##^a.btn-sm.btn-pink.btn:nth-of-type(2)
+/^.*?7mmtv.*?$/##^div.block.mb-4.mb-lg-5:nth-child(5)
+/^.*?7mmtv.*?$/##^div.mb-lg-5.mb-4.block:nth-of-type(5)
+/^.*?7mmtv.*?$/##^.col-related.col-12 > .mb-lg-5.mb-4.block
+/^.*?7mmtv.*?$/##^main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.block.mb-4.mb-lg-5:last-child
+/^.*?7mmtv.*?$/##^.footer
+!
+/^.*?hhhay.*?$/##^.slogan.col-sm-6.col-md-3
+/^.*?hhhay.*?$/##^.hidden-xs.col-md-4
+/^.*?hhhay.*?$/##^.navbar-container
+/^.*?hhhay.*?$/##^.fullwith-slider.row
+/^.*?hhhay.*?$/##^#halim-advanced-widget-20
+/^.*?hhhay.*?$/##^#halim-advanced-widget-17
+/^.*?hhhay.*?$/##^#sidebar
+/^.*?hhhay.*?$/##^.single-info.ratings_wrapper
+/^.*?hhhay.*?$/##^.related-movies
+/^.*?hhhay.*?$/##^.the_tag_list
+/^.*?hhhay.*?$/##^.primary_ribbon.bookmark-img-animation
+/^.*?hhhay.*?$/##^.ratings_wrapper
+/^.*?hhhay.*?$/##^.halim--notice
+/^.*?hhhay.*?$/##^.\/.button-watch
+/^.*?hhhay.*?$/##^.nav-tabs.nav
+/^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
+/^.*?hhhay.*?$/##^.footer-credit
+/^.*?hhhay.*?$/##^#footer
+!
+/^.*?cuutruyen.*?$/##.lg\:flex.hidden.gap-3.items-center.flex-1
+/^.*?cuutruyen.*?$/##.max-w-full.justify-end.flex.flex-1 > div.relative
+/^.*?cuutruyen.*?$/##.flex-grow.overflow-hidden.flex-col.flex > .flex-col.flex
+/^.*?cuutruyen.*?$/###best-mangas
+/^.*?cuutruyen.*?$/###best-teams
+/^.*?cuutruyen.*?$/##.md\:right-11.md\:bottom-11.right-4.bottom-12.z-50.fixed
+/^.*?cuutruyen.*?$/##button[class="button px-6 py-2 bg-gray-100 focus:ring text-gray-500 font-bold text-sm md:text-md uppercase text-center cursor-default"]
+/^.*?cuutruyen.*?$/##.items-center.gap-2.flex
+/^.*?cuutruyen.*?$/##.lg\:block.hidden.w-72.flex-none
+/^.*?cuutruyen.*?$/##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500
+/^.*?cuutruyen.*?$/###banner
+/^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
+/^.*?cuutruyen.*?$/##.mt-12.items-center.flex-col.flex.text-sm.text-gray-600
+/^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
+!
+/^.*?yurineko.*?$/##.mr-auto.md\:flex.hidden.items-center.justify-between.w-max
+/^.*?yurineko.*?$/##.dark\:bg-dark.md\:block.hidden.bg-gray-light.w-full
+/^.*?yurineko.*?$/##.md\:flex.hidden.justify-between.items-center.w-24.flex
+/^.*?yurineko.*?$/##.ml-2.md\:hidden.w-20
+/^.*?yurineko.*?$/##.mr-2.relative.ant-dropdown-trigger
+/^.*?yurineko.*?$/##.py-2.xl\:px-40.container.mx-auto
+/^.*?yurineko.*?$/##.mb-3 > .xl\:px-40.mx-auto.container
+/^.*?yurineko.*?$/##.xl\:px-slide.mx-auto.container
+/^.*?yurineko.*?$/##.ant-col-xl-8.ant-col-xs-24.py-2.ant-col
+/^.*?yurineko.*?$/##.font-semibold.border-button-disable.text-white.bg-button-disable.border-2.justify-center.items-center.text-base.rounded-md.p-2.md\:flex.hidden
+/^.*?yurineko.*?$/##.max-w-xs.w-screen.md\:block.hidden
+/^.*?yurineko.*?$/##.my-2
+/^.*?yurineko.*?$/##.p-2.mt-3
+/^.*?yurineko.*?$/##.md\:hidden.justify-center.items-center.flex.mt-2
+/^.*?yurineko.*?$/##.mt-2.justify-center.flex-col.flex.mx-auto.max-w-xs.w-screen.md\:hidden
+/^.*?yurineko.*?$/##div.justify-center.items-center.flex.pt-2:nth-of-type(1)
+/^.*?yurineko.*?$/##.py-2.dark\:bg-dark.bg-white
+/^.*?yurineko.*?$/##.justify-center.items-center.flex.px-3.text-white.text-base.font-normal.bg-yellow-500.rounded.leading-none.block.py-2.h-10
+/^.*?yurineko.*?$/##.p-2.max-w-2xl.md\:w-4\/5.w-full.mx-auto.justify-around.items-center.flex > .ant-dropdown-trigger
+/^.*?yurineko.*?$/##.border-2.h-10.justify-center.items-center.flex.py-2.px-2.text-base.font-semibold.rounded.ml-2.border-gray.text-white.bg-gray
+/^.*?yurineko.*?$/##.p-2.max-w-2xl.md\:w-4\/5.w-full.mx-auto.justify-around.items-center.flex > .border-2.justify-center.items-center.flex.py-2.px-2.text-2xl.font-semibold.rounded.h-10.border-button-disable.text-white.bg-button-disable
+/^.*?yurineko.*?$/##.mt-2.mb-2.mx-auto.w-64
+/^.*?yurineko.*?$/##.w-screen.bottom-0.mt-auto.dark\:bg-dark-black.bg-gray-footer.absolute.ant-layout-footer
