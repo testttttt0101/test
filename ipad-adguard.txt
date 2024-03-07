@@ -1,0 +1,56 @@
+! Title: Hidden List Adguard iPad
+animevietsub.*##.Logo
+animevietsub.*###menu-item-495
+animevietsub.*##.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+animevietsub.*###menu-item-494
+animevietsub.*###menu-item-497
+animevietsub.*##li.menu-item-493.menu-item-object-page.menu-item-type-post_type.menu-item
+animevietsub.*##.Login
+animevietsub.*##.announcement
+animevietsub.*##.MovieListTopCn
+animevietsub.*##.MovieListSldCn
+animevietsub.*###new-home
+animevietsub.*###hot-home
+animevietsub.*##.Footer
+animevietsub.*##.schedule-title-main
+animevietsub.*##.social-button
+animevietsub.*##.fbcmt
+animevietsub.*###mv-keywords
+animevietsub.*##.MovieTabNav, .ControlPlayer
+animevietsub.*###links-backup > h3:first-child
+animevietsub.*##.watch-notice
+animevietsub.*##.widget-area
+!
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-brand.h-\[50px\].w-\[200px\].s768\:w-\[180px\].flex.justify-between.shrink-0.s1280\:mr-2.s1366\:mr-3.z-50:first-child > a:first-child
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-left.fixed.overflow-hidden.h-full.s768\:left-0.s768\:h-\[50px\].shadow.s768\:relative.w-\[300px\].s768\:w-auto.s768\:h-auto.s768\:flex.top-0.-left-\[300px\].bottom-0.bg-white.s768\:bg-transparent.dark\:s768\:bg-transparent.dark\:bg-slate-800\/90.dark\:shadow-slate-700.s768\:shadow-none.s768\:grow.s768\:overflow-visible.pl-\[10px\].pr-0.pt-\[60px\].s768\:p-0.z-40.transition-all.duration-300:nth-child(2) > div.relative.mt-\[20px\].pr-\[10px\].s768\:mt-0.s768\:pr-0.flex.flex-col.s768\:flex-row.s768\:grow.s768\:items-center.gap-4.s768\:gap-2.s1280\:gap-3:last-child > div.navbar-item.s768\:h-\[30px\].dark\:s768\:border-gray-700.s768\:border.s768\:rounded-full.s768\:hover\:text-red-600.dark\:s768\:hover\:text-teal-500.s768\:order-1:nth-child(2)
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-left.fixed.overflow-hidden.h-full.s768\:left-0.s768\:h-\[50px\].shadow.s768\:relative.w-\[300px\].s768\:w-auto.s768\:h-auto.s768\:flex.top-0.-left-\[300px\].bottom-0.bg-white.s768\:bg-transparent.dark\:s768\:bg-transparent.dark\:bg-slate-800\/90.dark\:shadow-slate-700.s768\:shadow-none.s768\:grow.s768\:overflow-visible.pl-\[10px\].pr-0.pt-\[60px\].s768\:p-0.z-40.transition-all.duration-300:nth-child(2) > div.relative.mt-\[20px\].pr-\[10px\].s768\:mt-0.s768\:pr-0.flex.flex-col.s768\:flex-row.s768\:grow.s768\:items-center.gap-4.s768\:gap-2.s1280\:gap-3:last-child > div.navbar-item.s768\:h-\[30px\].dark\:s768\:border-gray-700.s768\:border.s768\:rounded-full.s768\:hover\:text-red-600.dark\:s768\:hover\:text-teal-500.s768\:order-2:nth-child(3)
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-left.fixed.overflow-hidden.h-full.s768\:left-0.s768\:h-\[50px\].shadow.s768\:relative.w-\[300px\].s768\:w-auto.s768\:h-auto.s768\:flex.top-0.-left-\[300px\].bottom-0.bg-white.s768\:bg-transparent.dark\:s768\:bg-transparent.dark\:bg-slate-800\/90.dark\:shadow-slate-700.s768\:shadow-none.s768\:grow.s768\:overflow-visible.pl-\[10px\].pr-0.pt-\[60px\].s768\:p-0.z-40.transition-all.duration-300:nth-child(2) > div.relative.mt-\[20px\].pr-\[10px\].s768\:mt-0.s768\:pr-0.flex.flex-col.s768\:flex-row.s768\:grow.s768\:items-center.gap-4.s768\:gap-2.s1280\:gap-3:last-child > div.navbar-item.s768\:h-\[30px\].dark\:s768\:border-gray-700.s768\:border.s768\:rounded-full.s768\:hover\:text-red-600.dark\:s768\:hover\:text-teal-500.s768\:order-4:last-child
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-left.fixed.overflow-hidden.h-full.s768\:left-0.s768\:h-\[50px\].shadow.s768\:relative.w-\[300px\].s768\:w-auto.s768\:h-auto.s768\:flex.top-0.-left-\[300px\].bottom-0.bg-white.s768\:bg-transparent.dark\:s768\:bg-transparent.dark\:bg-slate-800\/90.dark\:shadow-slate-700.s768\:shadow-none.s768\:grow.s768\:overflow-visible.pl-\[10px\].pr-0.pt-\[60px\].s768\:p-0.z-40.transition-all.duration-300:nth-child(2) > div.relative.mt-\[20px\].pr-\[10px\].s768\:mt-0.s768\:pr-0.flex.flex-col.s768\:flex-row.s768\:grow.s768\:items-center.gap-4.s768\:gap-2.s1280\:gap-3:last-child > div.navbar-item.s768\:h-\[30px\].dark\:s768\:border-gray-700.s768\:border.s768\:rounded-full.s768\:hover\:text-red-600.dark\:s768\:hover\:text-teal-500.s768\:order-5:nth-child(4)
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-user.relative.shrink-0.h-\[40px\].s1024\:w-\[145px\].s1280\:w-\[294px\].s1366\:w-\[320px\].ml-auto.flex.justify-end.gap-2:nth-child(3) > div.overflow-hidden.w-\[40px\].h-\[40px\].rounded-full.bg-gray-100.dark\:bg-slate-700:first-child
+vuighe2.*##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-user.relative.shrink-0.h-\[40px\].s1024\:w-\[145px\].s1280\:w-\[294px\].s1366\:w-\[320px\].ml-auto.flex.justify-end.gap-2:nth-child(3) > div.navbar-avatar.overflow-hidden.w-\[40px\].h-\[40px\].rounded-full.bg-gray-100.dark\:bg-slate-700.flex.justify-center.items-center.text-center:last-child
+vuighe2.*##div.container:nth-child(2) > section.mt-\[20px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(2)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(5)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(6)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(7)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(8)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(9)
+vuighe2.*##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(10)
+vuighe2.*##div.container.play:nth-child(2) > div.mt-\[20px\].px-\[10px\].s1024\:px-0.s1024\:flex.gap-2.s1024\:gap-3:last-child > div.shrink-0.w-full.s1024\:w-\[640px\].s1280\:w-\[880px\].s1366\:w-\[960px\]:first-child > div.flex.justify-between.items-center.s1024\:block:last-child
+vuighe2.*##div.container:nth-child(3) > div.mt-\[30px\].px-\[10px\].s1024\:px-0.s1024\:flex.gap-2.s1024\:gap-3 > div.w-full.s1024\:w-\[640px\].s1280\:w-\[880px\].s1366\:w-\[960px\]:first-child > div.mb-2:last-child
+vuighe2.*##section.container.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(4)
+vuighe2.*##section.container.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(5)
+!
+anime47.com##.footer
+anime47.com##.box-rating
+anime47.com##.play_comment
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-4:nth-child(2)
+anime47.com##.col-lg-4
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:last-child
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:nth-child(2)
+anime47.com##.nominated-movie
+anime47.com##nav:nth-child(6)
+anime47.com##.widget_user_header
+anime47.com##.header-logo
+vuighe2.com##div.container.play:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both.affiliate:nth-child(2)
+vuighe2.com##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both.affiliate:nth-child(3)
+vuighe2.com##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-brand.h-\[50px\].w-\[200px\].s768\:w-\[180px\].flex.justify-between.shrink-0.s1280\:mr-2.s1366\:mr-3.z-50:first-child
