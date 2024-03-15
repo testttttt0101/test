@@ -270,4 +270,5 @@
 /^.*?blogtruyen.*?$/##^.widget-forum-comment
 /^.*?blogtruyen.*?$/##^.widget-pinned
 /^.*?blogtruyen.*?$/##^.area-comment
+/^.*?blogtruyen.*?$/##^.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments
 /^.*?blogtruyen.*?$/##^footer
