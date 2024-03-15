@@ -246,3 +246,28 @@
 /^.*?yurineko.*?$/##.p-2.max-w-2xl.md\:w-4\/5.w-full.mx-auto.justify-around.items-center.flex > .border-2.justify-center.items-center.flex.py-2.px-2.text-2xl.font-semibold.rounded.h-10.border-button-disable.text-white.bg-button-disable
 /^.*?yurineko.*?$/##.mt-2.mb-2.mx-auto.w-64
 /^.*?yurineko.*?$/##.w-screen.bottom-0.mt-auto.dark\:bg-dark-black.bg-gray-footer.absolute.ant-layout-footer
+!
+/^.*?blogtruyen.*?$/##^.top-menu.col-sm-8.col-md-6
+/^.*?blogtruyen.*?$/##^#banner
+/^.*?blogtruyen.*?$/##^#menu
+/^.*?blogtruyen.*?$/##^#storyPinked
+/^.*?blogtruyen.*?$/##^.widget-top-forum
+/^.*?blogtruyen.*?$/##.ui-sortable.sidebar.col-md-4
+/^.*?blogtruyen.*?$/##^.like-buttons
+/^.*?blogtruyen.*?$/##^.story-note
+/^.*?blogtruyen.*?$/##^.social-button.al-c
+/^.*?blogtruyen.*?$/##^.votes
+/^.*?blogtruyen.*?$/##^.relative-storys
+/^.*?blogtruyen.*?$/##^.comment-area
+/^.*?blogtruyen.*?$/##^.control
+/^.*?blogtruyen.*?$/##^[src="//blogtruyenmoi.com/donate.html?v=7"]
+/^.*?blogtruyen.*?$/##^[src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fblogtruyen.page%2F&tabs=timeline%2Cmessages&width=300&height=1200&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1092402354157500"]
+/^.*?blogtruyen.*?$/##^.comments.bg-white
+/^.*?blogtruyen.*?$/##^.fb-page
+/^.*?blogtruyen.*?$/##^.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
+/^.*?blogtruyen.*?$/##^.in.collapse.focusoutofmenu.navbar-collapse
+/^.*?blogtruyen.*?$/##^.navbar-toggle
+/^.*?blogtruyen.*?$/##^.widget-forum-comment
+/^.*?blogtruyen.*?$/##^.widget-pinned
+/^.*?blogtruyen.*?$/##^.area-comment
+/^.*?blogtruyen.*?$/##^footer
